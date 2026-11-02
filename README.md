@@ -23,26 +23,6 @@ This project analyzes sales data to understand product performance, customer pay
 * Seaborn
 * Google Colab
 
-## 📂 Dataset
-
-The project uses `Sales_Data.xlsx` containing sales, product, order, payment, quantity, amount, and profit information.
-
-## 📈 Visualizations
-
-* Bar Chart
-* Point Plot
-* Pie Chart
-* Donut Chart
-* Area Chart
-
-## 🔍 Key Analysis
-
-The project explores sales performance, category-wise sales, average profit, order distribution, sub-category profit, payment modes, and profit/loss analysis.
-
-## 📝 Conclusion
-
-This project helps understand sales performance and identify profitable and loss-making product categories using data analysis and visualization.
-
 
 
 https://github.com/user-attachments/assets/dbd2f43c-b7c9-4ebf-bec3-733dd2286813
